@@ -6,7 +6,7 @@
 - 🍕 I was born in May 2000, near Milan (Italy)
 - 📑 Level C1 English (Cambridge Certificate)
 - 🎓 I have a Bachelor's Degree in Computer Science
-- 🌱 I’m attending a Master's Degree in Data Science
+- 🌱 I have a Master's Degree in Data Science
 - 👉 You can check out some of my projects [here](https://github.com/LucaGalliProjects/university-projects)
 - 📫 You can contact me on my email for any need!
 
